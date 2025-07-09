@@ -1,3 +1,16 @@
+Todos os integrantes do grupo trabalharam de forma igualitária na hora de fazer o código, ajudando nas pesquisas e na formatação dos arquivos presentes, sem precisar atribuir tarefas individuais.
+
+Alunos:
+
+-Enzo Antônio Soares Silva
+
+-Lucas Gabriel Da Silva Santana
+
+-Lucas Silva De Souza
+
+-Tiago Filipe Azevedo Da Silva
+
+-Kauã Oliveira Matos  Borba
 
 # 🧑‍💻 Sistema de Cadastro de Usuários com Tkinter, SQLite e Bcrypt
 
@@ -46,16 +59,4 @@ pip install bcrypt
 python nome_do_arquivo.py
 
 
-Todos os integrantes do grupo trabalharam de forma igualitária na hora de fazer o código, ajudando nas pesquisas e na formatação dos arquivos presentes, sem precisar atribuir tarefas individuais.
 
-Alunos:
-
--Enzo Antônio Soares Silva
-
--Lucas Gabriel Da Silva Santana
-
--Lucas Silva De Souza
-
--Tiago Filipe Azevedo Da Silva
-
--Kauã Oliveira Matos  Borba
